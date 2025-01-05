@@ -55,4 +55,4 @@ Tekan Enter untuk kembali ke menu...
 
 ---
 
-Silakan upload deskripsi ini di GitHub sesuai kebutuhan Anda!
+
